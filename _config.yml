@@ -20,7 +20,7 @@ title                    : "Cindylog"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Cindy"
-description              : "안녕하세요 :)"
+description              : "블로그"
 url                      : "https://cciindy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Cindy"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "블로그"
+  bio              : "안녕하세요:)"
   location         : "South Korea"
   email            :
   links:
